@@ -1,0 +1,16 @@
+Name,Age,Gender,serving_size,vegtables,Pulse ,Fruits ,Meat ,Fats ,Sweets ,calories,Outcome
+Daryl,35,Male,100 g,11g,11g,11g,10.2g,10.8g,46g,381,1
+Kimberly,40,Female,100 g,26.6g,8.1g,7.1g,3.1g,45g,10.1g,391,0
+Charlie,28,Male,100 g,23.3g,18.6g,10.8g,13.5g,21.5g,12.3g,250,1
+Jordan,34,Male,100 g,28.1g,20.3g,17.6g,6.6g,22.4g,5g,367,0
+Brad,61,Male,100 g,43.1g,10.5g,8.6g,6.3g,25.2g,6.3g,144,1
+Nicole,52,Female,100 g,25.6g,11.1g,15.8g,0.1g,31.2g,16.2g,259,0
+Tess,30,Female,100 g,31g,9.2g,9.3g,11.8g,7.9g,30.8g,426,1
+Alexander,25,Male,100 g,35.3g,9.2g,6.1g,6.1g,23g,20.3g,282,0
+James,29,Male,100 g,30.5g,11.8g,8.5g,5.6g,24g,19.6g,300,1
+Miranda,37,Female,100 g,25.8g,6.4g,7.4g,13.9g,18g,28.5g,290,1
+Tiana,64,Female,100 g,37.6g,7.5g,7.3g,14.3g,0.9g,32.4g,255,0
+Tess,50,Female,100 g,38g,9.8g,13.6g,9.7g,0.4g,28.5g,349,1
+Charlotte,32,Female,100 g,27.1g,26.3g,14.6g,11.6g,0.1g,18.3g,151,0
+Brooke,31,Female,100 g,30.1g,26.3g,13g,10.5g,7.2g,12.9g,407,1
+Chloe,61,Female,100 g,25.8g,19.3g,25.2g,1.9g,,12.8g,215,1
